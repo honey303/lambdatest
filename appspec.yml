@@ -1,0 +1,9 @@
+version: 0.0
+Resources:
+  - myLambdaFunction:
+      Type: AWS::Lambda::Function
+      Properties:
+        Name: "s3getobject"
+        Alias: "s3getobjectpoc"
+        CurrentVersion: "1"
+        TargetVersion: "2"
