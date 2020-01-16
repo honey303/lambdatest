@@ -5,5 +5,4 @@ Resources:
       Properties:
         Name: "s3getobject"
         Alias: "s3getobjectpoc"
-        CurrentVersion: "1"
-        TargetVersion: "2"
+        TargetVersion: "1"
