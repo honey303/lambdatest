@@ -4,5 +4,6 @@ Resources:
       Type: AWS::Lambda::Function
       Properties:
         Name: "s3getobject"
-        Alias: "s3getobjectpoc"
-        TargetVersion: "1"
+        Alias: "s3getobject-alias"
+        CurrentVersion: "2"
+        TargetVersion: "3"
