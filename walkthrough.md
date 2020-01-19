@@ -95,4 +95,3 @@ User input is stored and reused as is in a different function that has no protec
 - SQL Injection Cheat Sheet - http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
 - Various ways of loading a UDF into MySQL - https://osandamalith.com/2018/02/11/mysql-udf-exploitation/
 
-## Testing
